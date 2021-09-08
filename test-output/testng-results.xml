@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8215" started-at="2021-09-08T14:12:57 IST" finished-at="2021-09-08T14:13:05 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8215" started-at="2021-09-08T14:12:57 IST" finished-at="2021-09-08T14:13:05 IST">
+      <class name="org.sourcefuse.automationmain.TestCase3">
+        <test-method status="PASS" signature="loadData()[pri:0, instance:org.sourcefuse.automationmain.TestCase3@17579e0f]" name="loadData" is-config="true" duration-ms="10" started-at="2021-09-08T14:12:57 IST" finished-at="2021-09-08T14:12:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadData -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:org.sourcefuse.automationmain.TestCase3@17579e0f]" name="testCase2" duration-ms="7539" started-at="2021-09-08T14:12:57 IST" finished-at="2021-09-08T14:13:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.sourcefuse.automationmain.TestCase3@17579e0f]" name="closeBrowser" is-config="true" duration-ms="632" started-at="2021-09-08T14:13:05 IST" finished-at="2021-09-08T14:13:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.sourcefuse.automationmain.TestCase3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
