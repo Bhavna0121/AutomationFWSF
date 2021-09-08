@@ -34,11 +34,15 @@ ClassName -> TestCase1.java
 <br />
 Run mode - Jave application
 <br />
+Use testdata1.properties
+<br />
 * Test Case 2: Verify all input fields using Soft assertions. 
 <br />
 ClassName -> TestCase2.java
 <br />
 Run mode - with TestNg 
+<br />
+Use testdata2.properties
 <br />
 * Test Case 3: Verify all input fields using Hard assertions.
 <br />
@@ -46,11 +50,15 @@ ClassName -> TestCase3.java
 <br />
 Run mode - with TestNg
 <br />
+Use testdata2.properties
+<br />
 * Test Case 4: Submit the form after filling all details properly by using XPath only. 
 <br />
 ClassName -> TestCase4.java
 <br />
 Run mode - with Java application
+<br />
+Use testdata2.properties
 <br />
 * Test Case 5: Verify DB entry after submitting the form using JDBC connection.
 <br />
@@ -58,11 +66,15 @@ ClassName -> TestCase5.java
 <br />
 Run mode - Not executable for now as dummy 
 <br />
+Use testdata2.properties
+<br />
 * Test Case 6: Verify Email is triggered or not after submitting the form using assertion on DB considering an email trigger column as email_sent.  
 <br />
 ClassName -> TestCase6.java
 <br />
 Run mode - Not executable for now as dummy
+<br />
+Use testdata2.properties
 <br />
 
 
